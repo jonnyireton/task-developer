@@ -159,3 +159,12 @@ You've come quite a ways but, we're not close to done yet. Now it's time to buil
 ## This is where we're going to get deep into what it means to be a proficient software developer
 * Read and understand [DOM Enlightenment](domenlightenment.com)
 * Build [Simon Game from the front end section of FCC](https://www.freecodecamp.com/challenges/build-a-simon-game)
+
+* Complete all the Classic Puzzles on [CodinGame](https://www.codingame.com)
+* Find an introduction to MongoDB and the MEAN stack
+* Complete [The FCC API Projects from the Back-End Development section](https://www.freecodecamp.com/map#nested-collapseAPIProjects)
+* Complete [The FCC Dynamic Web Application Projects from the Back-End Development section](https://www.freecodecamp.com/map#nested-collapseDynamicWebApplicationProjects)
+
+Time for some serious Mathematics
+* Complete the math course [Calculus One](https://www.coursera.org/learn/calculus1)
+
