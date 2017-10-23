@@ -93,7 +93,7 @@ The following will increase my knowledge of
 3. Basic Project Planning
 4. Critical Thinking
 
-** The Result- ** I will be able to solve sophisticated problems programatically.
+**The Result:** I will be able to solve sophisticated problems programatically.
 Throughout this curriculum I am going to be writing code, since writing code is the only way to learn to write code. 
 
 * Complete [You don't know JS: Up and Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
@@ -150,3 +150,12 @@ Following will give me insight on and prepare for the future of JavaScript
 
 Now that Ihave a fair understanding of JavaScript, I am going to take a look at advanced styles by way of SASS. SASS is a scripting language that is interpreted into cascading style sheets. 
 * Complete [Getting Sassy with SASS course](www.sasshop.com)
+
+You've come quite a ways but, we're not close to done yet. Now it's time to build an online Towers of Hanoiu Solver that accepts a tower height between 5 and 10, then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved.
+
+---
+---
+
+## This is where we're going to get deep into what it means to be a proficient software developer
+* Read and understand [DOM Enlightenment](domenlightenment.com)
+* Build [Simon Game from the front end section of FCC](https://www.freecodecamp.com/challenges/build-a-simon-game)
