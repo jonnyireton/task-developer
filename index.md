@@ -280,38 +280,53 @@ Do these:
 
 When you're comfortable with Git, moooove on
 
-##Get your website up and running
+### Get your website up and running
 
 * Learn about site generation and host your website on github pages
 
-##Brushing up on Mathematics 
+### Brushing up on Mathematics 
 
--This is a commitment and a discipline within itself
+This is a commitment and a discipline within itself
 ---
--[Software learning path](https://github.com/P1xt/p1xt-guides)
--[John Washam on Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/?src=gah-arch)
 ---
--Questions design patterns: elements of reusable object oriented software
----
--[What closure is in JavaScript](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
--[Math website Better explained](https://betterexplained.com/articles/learn-math-like-mega-man/)
----
--[Coding Horrors recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+[Software learning path](https://github.com/P1xt/p1xt-guides)
+[John Washam on Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/?src=gah-arch)
 
--In the art of software development, studying code isn't enough; you have to study the people behind the software too.
 ---
--[The seven states of expertise in software engineering](www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)
----
--[Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
----
--[Top JavaScript Frameworks and Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
--[Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/)
----
--Learn math motherfucker!
--[Algebra Kahn Academy](https://www.khanacademy.org/math/algebra-home)
+Questions design patterns: elements of reusable object oriented software
+
 ---
 
-## Need to take a break from something thats kicking your ass? ##
+[What closure is in JavaScript](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+[Math website Better explained](https://betterexplained.com/articles/learn-math-like-mega-man/)
+
+---
+
+[Coding Horrors recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+
+In the art of software development, studying code isn't enough; you have to study the people behind the software too.
+
+---
+
+[The seven states of expertise in software engineering](www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)
+
+---
+
+[Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
+
+---
+
+[Top JavaScript Frameworks and Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+[Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/)
+
+---
+
+Learn math motherfucker!
+[Algebra Kahn Academy](https://www.khanacademy.org/math/algebra-home)
+
+---
+
+### Need to take a break from something thats kicking your ass? 
 
 * Complete a project from FCC that isn't in the course
 * Pick a pet web development project you can code in a week and complete it
