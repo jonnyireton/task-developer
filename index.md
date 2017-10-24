@@ -167,4 +167,149 @@ You've come quite a ways but, we're not close to done yet. Now it's time to buil
 
 Time for some serious Mathematics
 * Complete the math course [Calculus One](https://www.coursera.org/learn/calculus1)
+* Read and understand [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
+* Create a clone of [this landing page](https://blackrockdigital.github.io/startbootstrap-creative/)
+* Create a clone of [this admin template](rubix410.sketchpixy.com/ltr/dashboard)
+* Read and understand [Algorithms and Flow Charts](www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS)
 
+This is where we are going to start flowcharting complex portions of our code logic as part of our documentation.
+* Familiarise yourself with [pencil, an open source templating tool](pencil.evolus.vn)
+* Read and understand [Think Java- How to Think Like a Computer Scientist](greenteapress.com/wp/think-java)
+
+* Read and understand [Open Data Structures](www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
+* Read and understand [Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1)
+* Read and understand [Algorithms Part 2](https://www.coursera.org/learn/algorithms-part2)
+
+* Complete all [challenges from the CodeJam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
+
+* Create a clone of [this front page with modifications that highlight a different product or industry.](https://urbanarmorgear.com) Make special note of the secondary navigation bar at the top. Implementing this is the highlight of the project.
+
+* Complete the course [UX Design for mobile developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
+* Read the book Head First C# and work through all the exercises
+* Complete [Xamarin for Absolute Beginners](https://mva.microsoft.com/en-us/training-courses/xamarin-for-absolute-beginners-16182)
+* Familiarize yourself with [the Xamarin developer website and resources](https://developer.xamarin.com)
+* Read and understand the [Xamarin getting started documentation](https://developer.xamarin.com/guides/cross-platform/xamarin-studio/)
+* Familiarize yourself with the [Xamarin IOS Guide](https://developer.xamarin.com/guides/ios)
+* Build the [Pomodoro project from the FCC frontend curriculum - as an IOS app](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+* Familiarize yourself with the [Xamarin Android Guide](https://developer.xamarin.com/guides/android/)
+* Build the [Pomodoro project from FCC frontend curriculum - as an Android app](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+
+---
+---
+
+* Read [Professor Frisby's Mostly Adequate guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+* Complete [Software Testing Course](https://www.udacity.com/course/software-testing--cs258)
+* Complete [Software Debugging Course](https://www.udacity.com/course/software-debugging--cs259)
+
+* Create a clone of the Netflix interface using React, Angular or Vue - pulling data from the [Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
+
+* Complete [Calculus Two: Sequence and Series](https://www.coursera.org/learn/advanced-calculus)
+* Complete [all classic puzzles on CodinGame Medium using the language of your choice](https://www.codingame.com/start)
+* Complete [Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
+* Complete [Challenges from Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard)
+* Read [JavaScript Spessore](studystrategically.com/freebooks/JavaScript-Spessore.pdf)
+* Create a clone of [this blog template that has multiple pages](https://blackrockdigital.github.io/startbootstrap-clean-blog/)
+* Complete [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+* Complete [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x-0)
+* Complete [ES6 Kata](es6katas.org)
+* Complete [Introduction to Cloud Computing](https://www.edx.org/course/introduction-to-cloud-computing-ieeex-cloudintro-x-2)
+* Complete all challenges from [Code Jam Round 1B 2015](https://code.google.com/codejam/contest/8224486/dashboard)
+
+---
+Build a Facebook clone with all the functionality listed [here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project)
+---
+
+* Complete [Introduction to theoretical computer science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+* Complete all challenges from [Code Jam Round 1C 2015](https://code.google.com/codejam/contest/4244486/dashboard)
+* Complete [Introduction to Probability - the Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+* Complete [Linear Algebra - Foundations and Frontiers](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+* Complete [Cryptography One](https://www.coursera.org/learn/crypto)
+* Complete all challenges from [Code Jam Round 2 2015](https://code.google.com/codejam/contest/8234486/dashboard)
+* Complete [Cryptography Two](https://www.coursera.org/learn/crypto2)
+* Create a Twitter clone with all the Twitter functionality!
+* Complete [Computer Architecture](https://www.coursera.org/learn/comparch)
+* Complete all challenges from [Code Jam Round 3 2015](https://code.google.com/codejam/contest/4254486/dashboard)
+* Complete [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+* Complete [All classic puzzles on CodinGame very hard using the language of your choice](https://www.codingame.com)
+* Complete [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse-167x-3)
+* Complete [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-4#!)
+* Complete [Challenges from Code Jam World Final 2015](https://code.google.com/codejam/contest/5224486/dashboard)
+* Complete [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+---
+This is a pretty big project!
+* Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it includes a substantial AI component.
+---
+* Create a Node Module that will convert markdown to properly formatted HTML
+---
+* Complete [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+* Complete [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+* Complete [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+* Complete [Parallel Computer Architecture and Programming](15418.courses.cs.cmu.edu/spring2016/home)
+* Complete all problems from all rounds of the [Distributed Google Code Jam 2015](https://code.google.com/codejam/past-contests)
+* Create a clone of Slack - the functionality should be complete to the point that one user can create a room, invite other users, and all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.
+
+* Create a NPM module that bootstraps a fullstack application, with Node.js on the backend, and the SPA library/framework of your choice on the frontend. Include a full test suite and comprehensive build process. Publish the NPM.
+* Complete all problems from all rounds of [Google Code Jam 2016](https://code.google.com/codejam/past-contests)
+* Extend your CSS Grid Framework to include the CSS and JavaScript required to implement 5 to 10 material design components
+
+## Git Gud with Git and Git Hub
+Git and GitHub are the tools we will use to backup and control the versions of the things we create, as well as share them with the world.
+
+So, the first thing we are going to do is learn Git. This is going to help us:
+* Get comfortable with our computers
+* Get comfortable with the command line
+* Create different versions of our work
+* Backup our work
+* Prepare for sharing our work
+
+Do these:
+* [A 10 minute read on what GitHub is](https://guides.github.com/activities/hello-world)
+* [15 minutes to learn Git with hands on practice?](https://try.github.io/levels/1/challenges/1)
+* [A simple guide to Git, no deep shit](rogerdudler.github.io/git-guide)
+* [An entire video series on Git](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8INyoaYDuKZSKyJrgwb-)
+* [Walk through every step of the Git process](gitimmersion.com/index.html)
+
+> Being comfortable doesn't mean we can remember all the commands or understand Git or github inside out. If we can explain how it works to a 5 year old and know where to look and go when we get stuck, we good.
+
+When you're comfortable with Git, moooove on
+
+## Get your website up and running
+* Learn about site generation and host your website on github pages
+
+## Brushing up on Mathematics
+This is a commitment and a discipline within itself
+---
+[Software learning path](https://github.com/P1xt/p1xt-guides)
+[John Washam on Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/?src=gah-arch)
+---
+Questions design patterns: elements of reusable object oriented software
+---
+[What closure is in JavaScript](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+[Math website Better explained](https://betterexplained.com/articles/learn-math-like-mega-man/)
+---
+[Coding Horrors recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+
+In the art of software development, studying code isn't enough; you have to study the people behind the software too.
+---
+[The seven states of expertise in software engineering](www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)
+---
+[Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
+---
+[Top JavaScript Frameworks and Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+[Gulp, Jekyll and GitHub (pages)](https://www.chenhuijing.com/blog/gulp-jekyll-github/)
+---
+Learn math motherfucker!
+[Algebra Kahn Academy](https://www.khanacademy.org/math/algebra-home)
+---
+
+## Need to take a break from something thats kicking your ass?
+* Complete a project from FCC that isn't in the course
+* Pick a pet web development project you can code in a week and complete it
+* Code another mobile application
+* Write a guide or tutorial for your website or some other website and publish it
+* Learn another programming language and use it to complete any of the back-end projects from FCC with that language as the back-end language
+* Redo any of the algorithmic type projects you've already completed from the course, in a language other than JavaScript
+* Pick an open source project from [CodeTriage](https://www.codetriage.com) and contribute to fixing an open issue
+* Visit the FCC forum and pick a couple of the toughest questions, that people are having trouble with and help them
+* Code a flash cards application for jotting quick notes that you can test yourself with later
