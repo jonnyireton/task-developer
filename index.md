@@ -259,6 +259,7 @@ This is a pretty big project!
 * Extend your CSS Grid Framework to include the CSS and JavaScript required to implement 5 to 10 material design components
 
 ## Git Gud with Git and Git Hub
+
 Git and GitHub are the tools we will use to backup and control the versions of the things we create, as well as share them with the world.
 
 So, the first thing we are going to do is learn Git. This is going to help us:
@@ -280,9 +281,11 @@ Do these:
 When you're comfortable with Git, moooove on
 
 ## Get your website up and running
+
 * Learn about site generation and host your website on github pages
 
 ## Brushing up on Mathematics
+
 This is a commitment and a discipline within itself
 ---
 [Software learning path](https://github.com/P1xt/p1xt-guides)
