@@ -284,7 +284,7 @@ When you're comfortable with Git, moooove on
 
 * Learn about site generation and host your website on github pages
 
-## Brushing up on Mathematics
+## Brushing up on Mathematics ##
 
 This is a commitment and a discipline within itself
 ---
@@ -311,7 +311,8 @@ Learn math motherfucker!
 [Algebra Kahn Academy](https://www.khanacademy.org/math/algebra-home)
 ---
 
-## Need to take a break from something thats kicking your ass?
+## Need to take a break from something thats kicking your ass? ##
+
 * Complete a project from FCC that isn't in the course
 * Pick a pet web development project you can code in a week and complete it
 * Code another mobile application
