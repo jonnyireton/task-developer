@@ -114,13 +114,18 @@ The course teaches students how to think algorithmically and solve problems effi
 * Software Engineering  * Web Development
 
 Languages include:
-* C           * Python
-* SQL         * JavaScript
-* CSS         * HTML
+* C           
+* Python
+* SQL         
+* JavaScript
+* CSS         
+* HTML
 
 Each problem is inspired by real world domains:
-* Biology         * Cryptography
-* Finance         * Forensics
+* Biology         
+* Cryptography
+* Finance         
+* Forensics
 * Gaming
 
 Students who earn a satisfactory score on 9 problem sets and a final project are eligible for a certificate.
