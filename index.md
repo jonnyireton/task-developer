@@ -76,13 +76,13 @@ Some of this stuff is very confusing and there will be days where I feel like I 
 * Use my understanding to explain what I just learnt to a 5 year old
 
 ## Getting Started
-Sign up to [Free Code Camp](https://www.freecodecamp.com) then:
-* Complete [Getting started](https://www.freecodecamp.com)
-* Complete [HTML5 and CSS](https://www.freecodecamp.com)
-* Complete [Responsive Design with Bootstrap](https://www.freecodecamp.com)
-* Complete [Gear up for success](https://www.freecodecamp.com)
-* Complete [jQuery](https://www.freecodecamp.com)
-* Complete [Basic Front End Development Projects](https://www.freecodecamp.com)
+[\] Sign up to [Free Code Camp](https://www.freecodecamp.com) then:
+[\] * Complete [Getting started](https://www.freecodecamp.com)
+[\] * Complete [HTML5 and CSS](https://www.freecodecamp.com)
+[\] * Complete [Responsive Design with Bootstrap](https://www.freecodecamp.com)
+[\] * Complete [Gear up for success](https://www.freecodecamp.com)
+[\] * Complete [jQuery](https://www.freecodecamp.com)
+[\] * Complete [Basic Front End Development Projects](https://www.freecodecamp.com)
 
 When you get to the Build a Portfolio section, just build it and don't think too hard about it. Either make a local version or a version on CodePen. This portfolio is going to come up again and again and you're going to have all kinds of ideas.
 
